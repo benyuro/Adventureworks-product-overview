@@ -3,10 +3,10 @@
 --
 
 ## Introduction
-In a bid to continue lwarning and working on more projects, I decided to work on the production side of the adventureworks sample dataset, the data was obtined from the **Microsoft Adventureworks database** . Having analyzed the sales data in a previous project, it was only right to do the same with the production side of things. Walk with me as I explain briefly some insights I was able to gather.
+In a bid to continue learning and getting hands with more projects, I decided to work on the production side of the adventureworks sample dataset, the data was obtined from the **Microsoft Adventureworks database** . Having analyzed the sales data in a previous project, it was only right to do the same with the production side of things. Walk with me as I explain briefly some insights I was able to gather.
 
 ## Project Goal
-The main purpose of this project was to conduct exploratory data analysis(EDA) on product data.
+The main purpose of this project was to conduct exploratory data analysis(EDA) on the production data.
 
 ## Tool utilized
 The project was done and visualized with powerBI desktop and published on powerBI service.
@@ -54,6 +54,13 @@ like I said earleir, the findings weree quite expected, so what this visual mean
 This dashboard shows all the visuals representing all that we've discussed so far, including slicers that enables consumers/users view the report by quarters, the dashboard is fully interactive and fuctional.
 ![](overview.png)
 
-## Short video showing the interactivity of the dashbaord
+### Short video showing the interactivity of the dashboard
 
+https://github.com/benyuro/Adventureworks-product-overview/assets/101714302/bc05266f-adc4-4e37-92bf-e73464a7edb8
+
+### You can interact with the dashboard here 
+https://app.powerbi.com/view?r=eyJrIjoiYTQ4MjI4OTAtMzdiNi00MTYyLWI5OTUtMGYzYWNiOGY1NzdjIiwidCI6IjVjYTg4NzAyLTExNDUtNDlkOS05MWIzLWM3MjFiZWZkMTIwNiJ9
+
+Thanks for sticking with me 
+Cheers 
 
