@@ -55,4 +55,5 @@ This dashboard shows all the visuals representing all that we've discussed so fa
 ![](overview.png)
 
 ## Short video showing the interactivity of the dashbaord
-<video src='overview_recording.mp4' width=180/>
+
+
