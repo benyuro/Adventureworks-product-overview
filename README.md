@@ -56,7 +56,11 @@ This dashboard shows all the visuals representing all that we've discussed so fa
 
 ### Short video showing the interactivity of the dashboard
 
-https://github.com/benyuro/Adventureworks-product-overview/assets/101714302/bc05266f-adc4-4e37-92bf-e73464a7edb8
+
+https://github.com/benyuro/Adventureworks-product-overview/assets/101714302/8686653d-bdbc-466c-91d6-36eb15641adb
+
+
+
 
 ### You can interact with the dashboard here 
 https://app.powerbi.com/view?r=eyJrIjoiYTQ4MjI4OTAtMzdiNi00MTYyLWI5OTUtMGYzYWNiOGY1NzdjIiwidCI6IjVjYTg4NzAyLTExNDUtNDlkOS05MWIzLWM3MjFiZWZkMTIwNiJ9
