@@ -54,7 +54,7 @@ like I said earleir, the findings weree quite expected, so what this visual mean
 This dashboard shows all the visuals representing all that we've discussed so far, including slicers that enables consumers/users view the report by quarters, the dashboard is fully interactive and fuctional.
 ![](overview.png)
 
-### Short video showing the interactivity of the dashboard
+### Enjoy some wizkid while you check out the interactivity of the dashboard
 
 
 https://github.com/benyuro/Adventureworks-product-overview/assets/101714302/8686653d-bdbc-466c-91d6-36eb15641adb
