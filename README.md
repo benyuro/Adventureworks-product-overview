@@ -5,27 +5,28 @@
 ## Introduction
 Embark on an exhilarating journey of exploration and discovery as we delve into the captivating world of Adventureworks production data! With an insatiable thirst for learning and a passion for projects, I dived headfirst into the rich realm of Microsoft's Adventureworks database. Join me as I unravel the secrets of the production side, unraveling fascinating insights that will leave you amazed. Let's venture forth and unveil the hidden gems within this enthralling dataset! 🕵‍♂💼📊
 
-## Project Goal
-The main purpose of this project was to conduct exploratory data analysis(EDA) on the production data.
+## Projrct Goal: Unraveling the Mysteries 🗺
+My mission was clear: to perform Exploratory Data Analysis (EDA) on the production data. Brace yourselves for some data magic! ✨
 
-## Tool utilized
-The project was done and visualized with powerBI desktop and published on powerBI service.
+
+## Tool of Choice 🛠
+I made use of PowerBI Desktop for analyisis and dashboard creation and unleashed the visualizations on the PowerBI service. Trust me, it's like wielding a wand of data visualization!
 
 ## Skills Demonstrated
-- AI integrated DAX solutions
-- Bookmarks
-- Buttons
+- DAX Magic ✨
+I conjured AI-integrated DAX solutions, used bookmarks, and activated buttons for an immersive experience
+
 
 ## Exploratory Analysis
 
 ### Total Cost of Production per Quantity Ordered
-So for the fact that this is production data, it's only natural that I evaluate total cost of production as it relates to the quantity of products ordered, I decided to explore the Top 10 products by total cost and evaluate how it relates to the order quantity.
+So for the fact that this is production data, Let's talk about cash! I examined the total cost of production related to the quantity of products ordered. The HL Road Handlebars and HL Mountain Handlebars proved to be the gold mines, with costs over 200k! 💰
 ![](cost_vs_orderqty.png)
 
 From the chart we know that of the top 10 products, the HL Road Handlebars and HL mountain Handlebars cost the most to produce with total cost well over 200 thousand dollars, coming in at 223k and 204k respectively, on the flip side, they both have relatively low quantity ordered compared to other products on the top 10 list.
 
 ### Total Cost of Production by Product Class
-Next thing I decided to evaluate was the cost of production as it relates to class, so the products being manufactured are group into classes (H) High, (L) Low, (M) Middle.
+Class matters! I compared production costs among High, Low, and Middle classes. High-class products hit the bank, but surprisingly, Middle and Low classes kept up the pace!
 
 ![](total_cost_by_class.png)
 
@@ -38,10 +39,10 @@ We've compared top products as it relates to cost of production, this time we lo
 Now this is an interesting part, remeber when looked at top products based on total cost BB Ball Bearing didn't even make the top 10, but here it is the top product based on the quantity ordered, so what this tell us is that, BB Ball Bearing is not a high class product but it is highly sort after, that's interesting...
 
 ### Total OrderQty by Year
-What is a sales/product anallysis without a time series analysis, at this point, I had to evaluate quantity of orders over the course of the 4 years in view here (2011-2014) , with a few to understanding how each year faired.
+What is a sales/product anallysis without a time series analysis, at this point, I had to evaluate quantity of orders over the course of the 4 years in view here (2011-2014) , with a view to understanding how each year faired.
 ![](orderqty_by_year.png)
 
-This is clear as day, 2013 had the highest record of orders and 2011 had the lowest, it is worthy to note that there was a decline in the quantity of orders from over 25 thousand in 2013 to just above 15 thousand in 2014, there is no availble data to find out why that is, because that is not the scope of this analysis, but it is a worthy reason to carry out a whole new project to try to answer that question.
+This is clear as day, 2013 had the highest record of orders and 2011 had the lowest, it is worthy to note that there was a decline in the quantity of orders from over 25,000 (25 thousand) in 2013 to just above 15,000 (15 thousand) in 2014, there is no availble data to find out why that is, because that is not the scope of this analysis, but it is a worthy reason to carry out a whole new project to try to answer that question.
 
 ### KPI 
 While going through the data just at the begining of the project, I noticed that there was data available for the number of days it took to manufacture a particular, if you have been following, you'd recall I mentioned the products were grouped into classes H, L, M , so on that bases, i decided to find out how the class a product belonged to influenced the number of days spent for it's production, the results were interesting,however expected.
