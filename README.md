@@ -3,7 +3,7 @@
 --
 
 ## Introduction
-In a bid to continue learning and getting hands with more projects, I decided to work on the production side of the adventureworks sample dataset, the data was obtined from the **Microsoft Adventureworks database** . Having analyzed the sales data in a previous project, it was only right to do the same with the production side of things. Walk with me as I explain briefly some insights I was able to gather.
+Embark on an exhilarating journey of exploration and discovery as we delve into the captivating world of Adventureworks production data! With an insatiable thirst for learning and a passion for projects, I dived headfirst into the rich realm of Microsoft's Adventureworks database. Join me as I unravel the secrets of the production side, unraveling fascinating insights that will leave you amazed. Let's venture forth and unveil the hidden gems within this enthralling dataset! 🕵‍♂💼📊
 
 ## Project Goal
 The main purpose of this project was to conduct exploratory data analysis(EDA) on the production data.
